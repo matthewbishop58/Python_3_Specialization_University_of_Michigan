@@ -2,7 +2,7 @@
 ## Specialization Certificate
 ![image](https://user-images.githubusercontent.com/94609839/188324006-6f88b1da-373f-49fd-824d-aa3e865bdde1.png)
 
-## 01 - 
+## 01 - Python Basics
 ![image](https://user-images.githubusercontent.com/94609839/188323784-7336d1e5-f35a-4fdd-b1b3-509b590c3115.png)
 
 ## 02 - Python Functions, Files, and Dictionaries
